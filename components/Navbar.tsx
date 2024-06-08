@@ -1,7 +1,6 @@
 import { NAV_LINKS } from "@/constans";
 import Image from "next/image";
 import Link from "next/link";
-import React from "react";
 import Button from "./Button";
 
 const Navbar = () => {
